@@ -1,0 +1,6 @@
+{
+  "name": "Aurelius Fire Risk",
+  "description": "Compliance-driven B2B SaaS platform for real-time fire compliance tracking, interactive digital firelogging, asset management, and instant compliance estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
